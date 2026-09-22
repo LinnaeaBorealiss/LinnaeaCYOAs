@@ -1,0 +1,66 @@
+===Harahel v0.7.13===
+
+Race: [Fairy], [Yuki Onna], [Moth]
+Sex: [Female]
+Hair: [Pink]
+Eyes: [Violet]
+Skin: [Ghostly]
+Face: [Girly]
+Height: [Average]
+Bust: [Flat]
+Hips: [Extra Thicc]
+Butt: [Smol]
+Fitness: [Unfit]
+F.M.S.U.: [Everwet], [Arka Tanks x4], [Megane], [Curse of A Thousand Maidens], [Tangled Threads], [Life, Uh, Finds A Way], [Breeding Season], [Indestructible Ahoge], [Localized Regen], [Love Nectar], [Eggz], [Dick Destroyer], [Clutch], [Scrambled], [Nosebleed], [Eggnancy]
+G.R.M.: [Wings], [Regeneration], [Bio-Immortal], [Invitation], [Monster Mash x2], [Arms], [Caustic Blood], [Pain Zero], [Mushi], [Sleigh Beggy], [Dulluhan], [Demon Core], [Tireless], [Aqua Affinity], [Chimera Ant x1], [Ubermensch]
+U.T.T.: [Perfect Pussy], [Porn Physics], [Back Support], [Prized Hen], [Mr Clean], [World Clean], [Tamed Shark ], [Flavour Town], [Absolute Comfy], [Contortionist]
+Spawn Point: [LOST]
+Player Count: [10,000 People]
+Afterlife: [Mastema - Arbiter of Sanctuary], [Procel - Arbiter of Secrets]
+Afterlife Timer: [1 Year]
+Death Mods: [Chosen], [Corrupted Vision], [Equivalent Exchange], [Death Parade], [Afterlife Tourist], [Dual Citizen], [Metamorphosis], [Anti-Cheat Skill], [You're Finally Awake x4], [A Most Terrible Fate], [Remuneration]
+Banes: [Pixie], [Winter Wonderland], [Ooh Shiny], [The Adoring Fan], [Kafuka], [Ahegao], [Dere Dere], [Chūni Deluxe], [Glass Cannon], [Conspicuous], [Sexual Harassment], [Lightweight], [Femininity], [Eye Of The Beholder], [Reap What You Sow], [Mark Of Failure], [Continental EXTACY], [Reverse Summoning], [Just Passin’ Through], [Calamity Magnet], [Beast Bait], [Don’t Touch Me]
+Boons: [Hush Money], [Ooga Booga], [HUD], [Hammerspace Inventory], [Status], [Tasty Prof], [The Apprentice x4], [Aesthetic], [Permanence], [Destiny Drive], [Man Portions], [Hero], [Wisdom Incarnate], [Remote Capture], [Great Sage], [Age Shift], [Otome], [Inconspicuous], [Darkvision], [Flavour Flay], [Galvanized], [Sensory Overdose], [Lucky!], [STEEEEAL!], [Demon Lord], [Popular], [Divine Intervention], [Death Is the Only Cure], [Unbreakable Mind], [Unbreakable Will], [Relative Realism], [Talk To Me], [Torpor], [ERABE], [Banishment This World!], [Max Charisma], [Seal Decay], [Communism]
+Items: [Riftgate Licence], [Survival Guide], [Senketsu], [Dom-Suit], [Starting Bonus], [Shekels], [Home Sweet Tome], [Dungeon Dowser], [Magic Mirror], [Infinity Bag], [A Home], [A Manor], [Regal Upgrade], [Service], [Tab Leet], [Switch], [Solar Charger], [Entertainment], [It’s Only Game], [Virtual Sunshine], [Self Insert], [God Complex], [Fujoshi], [Truman? You Man!], [Runman], [Dive Boost], [The Explorer], [AKARIIIN! ~], [Servant], [Soulbound], [Endless Polaroid], [Knowledge x1], [Noble Tracksuit], [Slime Armour], [Pocket Slime], [Tenta-Cool]
+World Level: [Time Stop Meido], [Time Compression], [Time Erasure], [Chronograph], [Perfect Meido], [♥ CHARMED], [Humanity Has Declined], [Arise - My Great Evil], [Nobody Poops]
+Agility 1
+Durability 3
+Cooking 2
+Charisma 4
+Arcane 4
+Illusion 3
+Summoning 1
+Spatial 4
+Elemental 3
+Light 3
+Luck 5
+
++ SERVANT +
+
+Race: [Mazoku], [Marionette]
+Sex: [Male]
+Hair: [Black]
+Eyes: [Brown]
+Skin: [Grey]
+Face: [Boyish]
+Height: [Tall]
+Bust: [Flat]
+Hips: [Masculine]
+Butt: [Smol]
+Fitness: [Fit]
+F.M.S.U.: [Indestructible Ahoge], [Resting Smug Face], [Love Nectar], [Magnum Dong], [Nosebleed]
+G.R.M.: [Bio-Immortal], [Demon Core], [Tireless], [Horns], [Monster Mash x1], [Auxiliary Systems], [Pain Zero], [Caustic Blood], [Kyuu], [Tentacles], [Arms], [Mushi], [Wings], [Dulluhan], [Ubermensch]
+U.T.T.: [Mr Clean], [World Clean], [Long Tongue], [Flavour Town]
+Spawn Point: [LOST]
+Banes: [Teacher's Pet], [Just Passin’ Through], [Dere Dere], [Ahegao], [Atrophy], [Masculinity], [The Fool], [The Chivalrous], [Eye Of The Beholder], [Bestial]
+Boons: [Hush Money], [Tasty Prof], [ERABE], [HUD], [Status], [Hammerspace Inventory], [Remote Capture], [Seal Decay], [Face Me], [Ooga Booga], [Nuru Nuru~], [Darkvision], [STEEEEAL!], [Final Journey], [It’s Free Real-Estate], [Divine Intervention], [Talk To Me], [Lucky!]
+Strength 3
+Agility 1
+Endurance 2
+Combat 2
+Cooking 3
+Strategy 1
+Arcane 1
+Luck 4
+Sex 3
+
